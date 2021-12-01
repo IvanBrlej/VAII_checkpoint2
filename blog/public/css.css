@@ -1,0 +1,108 @@
+.has-error {
+    color: red;
+}
+.has-error textarea,
+.has-error input {
+    border-color: red;
+}
+
+#submit-info {
+    display: none;
+    padding: 7px;
+    background-color: orange;
+    color: red;
+    border-radius: 20px;
+}
+
+.error {
+    color: red;
+    padding: 5px;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: #24262b;
+    padding: 30px;
+}
+
+.footer-col h4 {
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.footer-col ul li a:hover {
+    color: #ffffff;
+    padding-left: 10px;
+}
+
+.footer-col .social-links a:hover {
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+.footer-col {
+    width: 25%;
+}
+
+body {
+    background-image: url("mapa.jpg");
+}
+.container blog{
+    text-indent: 50px;
+    padding: 5px;
+    background-color: moccasin;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 1px dashed;
+    text-shadow: 2px 2px 5px red;
+    font-weight: bold;
+    font-family: cursive, "Lucida Bright";
+    font-size: 32px;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 1.3;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: bold;
+}
+
+.navbar {
+    text-align: left;
+    font-size: 20px;
+}
+
+.navbar li:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    margin: 1em 0 0.5em 0;
+    color: #343434;
+    font-weight: normal;
+    font-family: 'Ultra', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    text-shadow: 0 2px white, 0 3px #777;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive, "Lucida Bright";
+    font-size: 32px;
+}
+
+button{
+    margin: 4px 2px;
+}
+
